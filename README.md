@@ -38,7 +38,7 @@ In this scenario, the entire mobile banking system is down. The ticket will be a
 <img src="https://i.imgur.com/4Chf7t2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Here, the entire accounting dept adobe reader is not working. Given high priority, a warm hand was given to the support group where everything was re-upgraded and should be running back to normal.
 </p>
 <br />
 
