@@ -46,6 +46,6 @@ Here, the entire accounting dept adobe reader is not working. Given high priorit
 <img src="https://i.imgur.com/MOtzMMQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Here the tablets need a hardware refresh. Jane from support is slated to refresh them in Q1. any questions that they may have can be brought to her in the case of an issue.
 </p>
 <br />
