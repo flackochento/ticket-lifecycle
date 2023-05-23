@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Fe0W7Wv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this scenario, the entire mobile banking system is down.
+In this scenario, the entire mobile banking system is down. The ticket will be assigned to the system admins to handle in a reasonable timeframe agreed by the customer and the service provider.
 </p>
 <br />
 
